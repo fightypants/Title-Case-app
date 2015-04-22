@@ -1,5 +1,0 @@
-require('rspec')
-require('capybara')
-require('pry')
-require('sinatra')
-require('sinatra/reloader')
