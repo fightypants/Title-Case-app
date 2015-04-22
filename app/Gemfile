@@ -1,7 +1,7 @@
 source('https://rubygems.org')
 
-require('rspec')
-require('capybara')
-require('pry')
-require('sinatra')
-#require('sinatra-contrib')
+gem('rspec')
+gem('capybara')
+gem('pry')
+gem('sinatra')
+gem('sinatra-contrib')
